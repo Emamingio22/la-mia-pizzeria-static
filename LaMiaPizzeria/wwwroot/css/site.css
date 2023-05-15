@@ -15,12 +15,14 @@ html {
 
 body {
     margin-bottom: 60px;
-    background: url('	https://garage.pizza/wp-content/uploads/2020/03/Pizza-Napoletana-Metodo-Margherita-1536x1024.jpg');
+    background: url('https://staticcookist.akamaized.net/wp-content/uploads/sites/21/2020/06/pizza-napoletana-forno-a-legna-1200x675.jpg');
     background-position: center;
 }
 
+
+
 .navbar {
-    font-size : large;
+    font-size: large;
     
 }
 
@@ -29,3 +31,4 @@ body {
 .border-img {
     border-right: 25%;
 }
+
