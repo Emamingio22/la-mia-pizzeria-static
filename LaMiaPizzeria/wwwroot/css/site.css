@@ -17,6 +17,7 @@ body {
     margin-bottom: 60px;
     background: url('https://staticcookist.akamaized.net/wp-content/uploads/sites/21/2020/06/pizza-napoletana-forno-a-legna-1200x675.jpg');
     background-position: center;
+   
 }
 
 
@@ -28,7 +29,12 @@ body {
 
 
 
-.border-img {
-    border-right: 25%;
+.contact {
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    background-color;
 }
+
+
 
