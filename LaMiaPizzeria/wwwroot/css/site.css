@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: url('https://hdwallpaperim.com/wp-content/uploads/2017/09/17/60012-food-pizza-cheese-748x421.jpg');
+    background-position: center;
+    
+    
+}
+
+.navbar {
+    font-size : large;
+    
+}
