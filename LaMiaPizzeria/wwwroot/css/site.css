@@ -15,14 +15,15 @@ html {
 
 body {
     margin-bottom: 60px;
-    background: url('https://hdwallpaperim.com/wp-content/uploads/2017/09/17/60012-food-pizza-cheese-748x421.jpg');
+    background: url('	https://garage.pizza/wp-content/uploads/2020/03/Pizza-Napoletana-Metodo-Margherita-1536x1024.jpg');
     background-position: center;
-    
-
-    
 }
 
 .navbar {
     font-size : large;
     
+}
+
+.margherita {
+  align-items:flex-start;
 }
